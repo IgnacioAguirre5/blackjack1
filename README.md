@@ -10,3 +10,4 @@
 # Producción
 
 1. Ejectura npm run build
+2. Nuevo push a mi branch
